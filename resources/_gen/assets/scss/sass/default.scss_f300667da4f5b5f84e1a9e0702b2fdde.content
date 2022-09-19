@@ -52,4 +52,7 @@ body {
     font-size: 2.5vmin;
     line-height: 2.6vmin; }
   #content {
-    min-width: 60vmin; } }
+    min-width: 60vmin; }
+  img {
+    width: 70%;
+    padding-left: 20%; } }

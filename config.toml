@@ -1,7 +1,7 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://noteam.robotroopers.org/'
 languageCode = 'en-us'
 title = 'FTC 21232'
-
+theme = 'hugo-theme-shell'
 
 [Params]
 
