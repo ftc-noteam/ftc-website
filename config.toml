@@ -37,7 +37,7 @@ theme = 'hugo-theme-shell'
   userName = "ftc-21232"
   pcName = "no-team"
   workDir = "2022-23"
-  profile = "ourteam.txt"
+  profile = "bio.txt"
 
   # Note: speed at which text is displayed on the terminal
   # Note: if set to 0, typing animation will be disabled
@@ -74,7 +74,7 @@ theme = 'hugo-theme-shell'
   folderName = "links"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["About", "/about.md"],
+    ["Our Team", "/ourteam.md"],
     ["Github", "https://github.com/AsianKoala/koawalib"],
     ["Youtube", "https://www.youtube.com/playlist?list=PLIDJ5RHUdb1Gfi69vuwae5i0iPmB-W4DK"],
     ["Instagram", "https://www.instagram.com/ftc.noteam/"],
